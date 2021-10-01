@@ -35,6 +35,7 @@ function ownDir {
        exit 4
     fi
 }
+echo test
 
 checkUser $1
 checkDir $2
